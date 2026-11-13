@@ -1,0 +1,64 @@
+# Trading Desk end-user licence
+
+This is the licence for the Trading Desk application. It repeats the terms of sale and use at
+<https://futureinvoked.uk/projects/trading-desk/terms>.
+
+## Who grants it
+
+The provider named in the imprint at <https://futureinvoked.uk/imprint/>. Checkout is
+handled by Stripe, through its Link service, as merchant of record, which manages payment, taxes
+and refunds.
+
+## What you get
+
+- **Beginner or Pro key:** a personal, non-transferable licence to use Trading Desk on the
+  computers you own, with updates for the 1.x series.
+- **Beginner** covers 5 tickers across your portfolio and watchlist and the core features.
+- **Pro** covers every feature and any number of tickers.
+- **Upgrade:** a Beginner key can be upgraded to Pro for the difference in price.
+- **Free trial:** anyone can use Trading Desk free for 10 days. After it, the desk is read-only
+  until a key is added. Every record stays, and nothing is deleted.
+- **No resale:** you may not share, sell or publish your key, or the application's files.
+
+## Refunds and withdrawal
+
+- **Refund:** if the application does not do what
+  <https://futureinvoked.uk/projects/trading-desk> says, write within 30 days and you get your
+  money back. A refunded key is no longer licensed.
+- **EU withdrawal:** consumers in the EU can also withdraw from the purchase within 14 days of
+  the day they buy, without giving a reason. Write to <futureinvoked@proton.me> and you get your
+  money back.
+
+## What it is not
+
+Trading Desk is decision-support software. It collects public market data and your own notes,
+and it lays them out. It is not investment, tax or legal advice, it recommends no security, and
+it never places orders.
+
+The AI features run through your own Claude or Codex account, under Anthropic's or OpenAI's
+terms. What they write is a draft for you to check, not advice. You remain responsible for every
+trade and every figure you rely on.
+
+## As-is and liability
+
+The software is provided as-is. To the extent the law allows, liability is limited to the price
+you paid. Nothing here limits liability for intent, gross negligence, or injury to life, body or
+health.
+
+## Privacy
+
+- **Activation:** checking a licence key sends nothing anywhere.
+- **What leaves your computer:** the data sources, the AI providers and checkout each see only
+  what the privacy notice at <https://futureinvoked.uk/projects/trading-desk/privacy/> lists.
+
+## Law and seller
+
+The seller and the applicable law are given in the imprint. Mandatory consumer protections of
+your country of residence are unaffected.
+
+## Software from others inside
+
+The application includes software from others under its own licences: Python, the Python
+packages, TradingView Lightweight Charts and, on Windows, Microsoft's WebView2 libraries. Each
+one, its licence and its copyright notices are listed in THIRD-PARTY-NOTICES.txt, which comes
+with the application.
