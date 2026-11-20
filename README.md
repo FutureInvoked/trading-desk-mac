@@ -10,14 +10,14 @@ This repository holds the notarized Mac app as a release download. It contains n
 
 ## Checksum
 
-Latest version: 1.2.0. [Download TradingDesk-1.2.0-arm64.dmg](https://github.com/FutureInvoked/trading-desk-mac/releases/download/v1.2.0/TradingDesk-1.2.0-arm64.dmg), 139,214,058 bytes, notarized by Apple.
+Latest version: 1.3.0. [Download TradingDesk-1.3.0-arm64.dmg](https://github.com/FutureInvoked/trading-desk-mac/releases/download/v1.3.0/TradingDesk-1.3.0-arm64.dmg), 133,976,909 bytes, notarized by Apple.
 
-SHA-256: `3261e5b8f0909d6e6fb9d48f88d2c00958f3f80ac4ff5b5c98bd1117f27bfa2e`
+SHA-256: `ec42daceaead64ad99fac2e87ff28729256490643da836b4d42e55f1c0075418`
 
 Check your download in Terminal:
 
 ```sh
-shasum -a 256 TradingDesk-1.2.0-arm64.dmg
+shasum -a 256 TradingDesk-1.3.0-arm64.dmg
 ```
 
 ## Decision support only
